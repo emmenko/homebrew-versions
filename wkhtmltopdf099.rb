@@ -1,6 +1,6 @@
 require 'formula'
 
-class Wkhtmltopdf < Formula
+class Wkhtmltopdf099 < Formula
   homepage 'http://code.google.com/p/wkhtmltopdf/'
   url 'http://wkhtmltopdf.googlecode.com/files/wkhtmltopdf-0.9.9.tar.bz2'
   sha1 '41f598c0103326e7c13101391447b0284b4ba3cb'
